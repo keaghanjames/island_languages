@@ -1,9 +1,9 @@
 # island_languages
 Code, data and output results pertaining to the manuscript 'Islands are engines of language diversity'.
 
-Please note that four distance matrices are required to replicate this analysis, the geographic and phylogenetic distances among languages and the geographic and phyloSor distances between islands. These matrices exceed the maximum allowable filesize of Github. They can be accessed at dropbox via this link: https://www.dropbox.com/scl/fi/1toxqgzjfswapbqgkhdxy/distance_matrices.zip?rlkey=eurdc6n5oecn5at1tdrcr0ltg&dl=0 
+Please note that four distance matrices are required to replicate these analyses, the geographic and phylogenetic distances among languages and the geographic and phyloSor distances between islands and island language communities. These matrices exceed the maximum allowable filesize of Github. They can be accessed at dropbox via this link: https://www.dropbox.com/scl/fi/1toxqgzjfswapbqgkhdxy/distance_matrices.zip?rlkey=eurdc6n5oecn5at1tdrcr0ltg&dl=0 
 
-Additionally, the endangerment analysis requires a R workspace used in Bromham et al.'s 2022 study of language endangerment which contains their best fitting model of language endangerment. This workspace also exceeds the allowable limit of Github but can be accessed via https://www.dropbox.com/scl/fi/vbyyvqtwk8gj4q63i424f/bestmodel?rlkey=s3yqzhlz8shnvks5lg2d8ea6g&dl=0  
+Additionally, the endangerment analysis requires an R workspace used in Bromham et al.'s 2022 study of language endangerment which contains their best-fitting model of language endangerment. This workspace also exceeds the allowable limit of Github but can be accessed via https://www.dropbox.com/scl/fi/vbyyvqtwk8gj4q63i424f/bestmodel?rlkey=s3yqzhlz8shnvks5lg2d8ea6g&dl=0  
 
 Code/
 
