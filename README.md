@@ -33,6 +33,11 @@ languoid_data_for_analysis.csv - Supplementary data from Bromham et al. 2022 inc
 
 Output/
 
+cookie_cutter_summary.csv - Summary output of 10,000 iterations of the null model using both a non-island treatment of mainland (25k km2) and continent. The dataset includes the language richness, weighted endemism and proportion of range scores for all pairs of island and mainland samples, along with the polygon area and centroid coordinate. 
+
+decent_modelsComplexity.csv -  Summaries of reasonable models (delta BIC < 6) for the grammatical complexity and phoneme count analyses. The table includes each model's BIC, delta, weight, pseudo r2 (pR2), number of parameters (Nparam), sample size (N) and coefficient estimates for each predictor including 95%CI. For each coefficient, significance is indicated by the number of astrices (* = p < 0.05, ** = p < 0.01, *** = p < 0.001).
+
+decent_models_diversity.csv - Summaries of reasonable models (delta BIC < 6) for the island diversity analyses. The table includes each model's BIC, delta, weight, pseudo r2 (pR2), number of parameters (Nparam) and coefficient estimates for each predictor including 95%CI. For each coefficient, significance is indicated by the number of astrices (* = p < 0.05, ** = p < 0.01, *** = p < 0.001).
 
 
 
