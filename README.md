@@ -39,5 +39,11 @@ decent_modelsComplexity.csv -  Summaries of reasonable models (delta BIC < 6) fo
 
 decent_models_diversity.csv - Summaries of reasonable models (delta BIC < 6) for the island diversity analyses. The table includes each model's BIC, delta, weight, pseudo r2 (pR2), number of parameters (Nparam) and coefficient estimates for each predictor including 95%CI. For each coefficient, significance is indicated by the number of astrices (* = p < 0.05, ** = p < 0.01, *** = p < 0.001).
 
+model_summaries_Gram_boundness/informativity.csv - these tables show the BIC, delta, weights, number of parameters (Nparam) and parameter combinations but not coefficient values, for all 32 possible models fit for the grammatical complexity analyses. 
+
+model_summaries_Gram_PC_Creanza/Phoible.csv - these tables show the BIC, delta, weights, number of parameters (Nparam) and parameter combinations but not coefficient values, for all 32 possible models fit for the phoneme count analyses. 
+
+
+model_summaries_Gram_LR/IE/WE.csv - these tables show the BIC, delta, weights, number of parameters (Nparam) and parameter combinations but not coefficient values, for all 128 possible models fit for island diversity analyses. 
 
 
