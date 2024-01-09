@@ -19,6 +19,20 @@ diversity_model_analysis.R - code for jointly summarising the output of the thre
 
 phoneme_count.R - code used to implement a phylospatial analysis of the influence of island endemism on phoneme counts using both the Phoible and Creanza et al. (2019) databases.
 
+Please not that directories will need be updated by the user in all instances. 
+
 Data/
+
+Continents/mainlands_25km2/island_polygons_united.rds - spatial polygon objects of the two non-island treatments used in the study as well as the islands analysed. These maps are called by various scripts included in Code/.
+
+island_summary.csv - dataset used for island language diversity analyses. Includes the language richness, number of island endemic languages and language-weighted endemism for each island in the dataset, as well as all observations for predictor variables. Called by island_diversity_driversLR/IE/WE.R to implement phylospatial analysis of island language diversity. 
+
+grambank/phoneme_data_by_lang.csv - Data used to implement phylospatial analyses of grammatical complexity and phonement counts. Dataset is called by gram_complexity.R and phoneme_count.R.
+
+languoid_data_for_analysis.csv - Supplementary data from Bromham et al. 2022 including L1 population sizes for languages. Called by various scripts in Code/.
+
+Output/
+
+
 
 
