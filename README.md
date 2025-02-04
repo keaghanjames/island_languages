@@ -1,4 +1,4 @@
-NOTE: Since publishing this code, the authors have been made awayre of an error in Dow (2008) (see preprint by Alexander Koplenig for details https://osf.io/preprints/osf/xbu2k_v1). Reanalyysus using an alternative method (semiparametric eigenvector spatial filterting) suggs that this issue does not have any substantive impact on the conclusions of the study. 
+NOTE: Since publishing this code, the authors have been made awayre of an error in Dow (2008) (see preprint by Alexander Koplenig for details https://osf.io/preprints/osf/xbu2k_v1). Reanalyysus using an alternative method (semiparametric eigenvector spatial filterting) suggests that this issue does not have any substantive impact on the conclusions of the study. 
 
 
 # island_languages
